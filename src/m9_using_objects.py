@@ -132,7 +132,6 @@ def lines():
     print(gloriousmidpoint.x)
     print(gloriousmidpoint.y)
 
-
     товарищсталин.attach_to(window)
     товарищЛенин.attach_to(window)
     window.render()
